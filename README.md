@@ -1,19 +1,30 @@
-# Snake Game 
+#  Snake Game in Java
 
-A Java-based version of the classic Snake Game built using `Swing` and `AWT`. This fun and interactive game enhances your understanding of 2D graphics, event-driven programming, and object-oriented concepts in Java.
+This is a simple implementation of the classic **Snake Game** using **Java Swing**. It’s a console-free, GUI-based game where the snake moves and grows as it eats food, with collision detection and a score system.
+
+
 
 ##  Features
 
-- Classic snake gameplay with scoring
-- Increasing speed as the snake grows
-- Keyboard controls for movement
-- Game over detection and restart option
-- Built with Java AWT & Swing GUI
+- Smooth snake movement using arrow keys
+- Randomly spawning food (apples)
+- Collision detection (walls & self)
+- Real-time score display
+- Game Over screen
 
-##  Requirements
 
-- Java JDK 8 or above
-- Any Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
+
+## Technologies Used
+
+- Java
+- Java Swing (GUI)
+- Timer, Random, and KeyListeners
+
+
+
+
+
+
 
 
 
